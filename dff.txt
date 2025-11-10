@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dhaanya Yogi Blends</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; background-color: #f7f3e9; }
+    h1 { color: #3e2723; }
+    p { color: #5d4037; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Dhaanya Yogi Blends</h1>
+  <p>Premium Date Coffee & Masala Sattu blends crafted naturally.</p>
+</body>
+</html>
